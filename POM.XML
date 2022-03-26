@@ -30,8 +30,7 @@
 		 <projectProperties>
                  <value>dNum=10</value>							
                  </projectProperties>
-			 
-			 
+ 
 		<printReport>true</printReport >							
 		<outputFolder>target/surefire-reports</outputFolder>
 		<exportAll>true</exportAll>	
