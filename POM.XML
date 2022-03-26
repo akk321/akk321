@@ -49,8 +49,7 @@
 		</dependency>
                </dependencies> 
                    
-                <executions>
-				
+                <executions>			
                   <execution>
                         <phase>test</phase>
                         <goals>
