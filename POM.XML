@@ -16,17 +16,15 @@
             <url>https://www.soapui.org/repository/maven2</url>
         </pluginRepository>	
     </pluginRepositories>
-	
 
     <build>
         <plugins>
-			<plugin>
+		<plugin>
 				
 		<groupId>com.smartbear.soapui</groupId>
 		<artifactId>soapui-maven-plugin</artifactId>
 		<version>5.1.0</version>
-					
-                			
+			
 		 <configuration>
 											 
                  <projectFile>AkTest-soapui-project.xml</projectFile>						
