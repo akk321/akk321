@@ -56,7 +56,7 @@
                         <goals>
                         <goal>test</goal>
                         </goals>
-               
+             
                     </execution>
                 </executions>				
             </plugin>
